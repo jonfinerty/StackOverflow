@@ -1,0 +1,5 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">StackOverflow</string>
+    <string name="reputation" tools:ignore="PluralsCandidate">%1$d reputation</string>
+    <string name="no_users_error_message">Sorry, could not load users. Try checking your internet connection</string>
+</resources>
